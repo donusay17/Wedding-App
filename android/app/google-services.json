@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567190890601",
+    "firebase_url": "https://wedapp-9b0b4-default-rtdb.firebaseio.com",
+    "project_id": "wedapp-9b0b4",
+    "storage_bucket": "wedapp-9b0b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567190890601:android:8232bbdfd0d17f48721af8",
+        "android_client_info": {
+          "package_name": "com.example.bootcamp165"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567190890601-pdt77d7kmii0itcolado2lgnpjb2ntau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPKJ1mM5EMLp418xMan-P3GHWLsH-5St0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567190890601-pdt77d7kmii0itcolado2lgnpjb2ntau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
