@@ -1,6 +1,6 @@
 # bootcamp165
 
-A new Flutter application.
+Bootcamp Takım 165 mobil uygulaması.
 
 ## Getting Started
 
